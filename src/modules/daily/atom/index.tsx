@@ -1,0 +1,5 @@
+export * from './arrow-down.component'
+export * from './daily-header-right-icon.component'
+export * from './image-manPhone.component'
+export * from './image.man-at-table.component'
+export * from './image-man-with-card.component'

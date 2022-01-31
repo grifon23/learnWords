@@ -1,0 +1,42 @@
+export const transactionData = [
+	{
+		payeeName: 'gaming payment',
+		firstName: 'Gauthier',
+		lastName: 'Drewitt',
+		dateTransaction: 'Fri 10AM',
+		amount: 3404,
+		id: 1,
+	},
+	{
+		payeeName: 'hookah payment',
+		firstName: 'Sukhbirpal',
+		lastName: 'Dhalan',
+		dateTransaction: 'Fri 10AM',
+		amount: 2669,
+		id: 2,
+	},
+	{
+		payeeName: 'another payment',
+		firstName: 'Lia',
+		lastName: 'Castro',
+		dateTransaction: 'Fri 10AM',
+		amount: 2669,
+		id: 3,
+	},
+	{
+		payeeName: 'another payment',
+		firstName: 'Xu',
+		lastName: 'Xuefeng',
+		dateTransaction: 'Fri 10AM',
+		amount: 340.4,
+		id: 4,
+	},
+	{
+		payeeName: 'another payment',
+		firstName: 'Xu',
+		lastName: 'Xuefeng',
+		dateTransaction: 'Fri 10AM',
+		amount: 340.4,
+		id: 5,
+	},
+]

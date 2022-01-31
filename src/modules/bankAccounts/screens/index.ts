@@ -1,0 +1,6 @@
+export * from './add-new-bank-account.screen'
+export * from './bank-account-created.screen'
+export * from './bank-accounts-list.screen'
+export * from './connect-to-privat.screen'
+export * from './privat-boarding.screen'
+export * from './privat-bank-connected.screen'

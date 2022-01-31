@@ -1,0 +1,1 @@
+export * from './validate-connect-to-private.validation'

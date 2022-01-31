@@ -1,0 +1,5 @@
+export * from './txt.component'
+export * from './icon.component'
+export * from './image.component'
+export * from './picker.component'
+export * from './svg-icon.component'

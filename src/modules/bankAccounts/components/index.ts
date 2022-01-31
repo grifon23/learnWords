@@ -1,0 +1,5 @@
+export * from './add-new-bank-form.component'
+export * from './credit-card.component'
+export * from './bank-header.component'
+export * from './connect-privat-form.component'
+export * from './privat-boarding-description.component'
