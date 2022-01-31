@@ -39,12 +39,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-budget-budgetTests.xcscheme</key>
+		<key>Pods-wordslearning-wordslearningTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-budget.xcscheme</key>
+		<key>Pods-wordslearning.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

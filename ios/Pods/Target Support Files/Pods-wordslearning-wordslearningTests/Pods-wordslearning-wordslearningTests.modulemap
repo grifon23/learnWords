@@ -1,0 +1,6 @@
+module Pods_wordslearning_wordslearningTests {
+  umbrella header "Pods-wordslearning-wordslearningTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

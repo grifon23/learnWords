@@ -492,11 +492,11 @@ SPEC CHECKSUMS:
   BVLinearGradient: e3aad03778a456d77928f594a649e96995f1c872
   DoubleConversion: cf9b38bf0b2d048436d9a82ad2abe1404f11e7de
   FBLazyVector: e686045572151edef46010a6f819ade377dfeb4b
-  FBReactNativeSpec: 000b7068db296c25e5b6a406f804cb4f18f68a57
+  FBReactNativeSpec: dd2d34ccf42301ff2c2064a84560f720b84e0e83
   glog: 73c2498ac6884b13ede40eda8228cb1eee9d9d62
   InputMask: 71d291dc54d2deaeac6512afb6ec2304228c0bb7
-  Permission-Camera: 9eb618fd601ae4a674b072c3b0d37f109d7b91e5
-  Permission-PhotoLibrary: 900e7e33012bd5e02e5859cb65d5bb2134259c64
+  Permission-Camera: 53efcbb755b0e8bdf253dbb27cc7559ccfce8480
+  Permission-PhotoLibrary: 7bec836dcdd04a0bfb200c314f1aae06d4476357
   RCT-Folly: ec7a233ccc97cc556cf7237f0db1ff65b986f27c
   RCTRequired: 6d3e854f0e7260a648badd0d44fc364bc9da9728
   RCTTypeSafety: c1f31d19349c6b53085766359caac425926fafaa
@@ -509,12 +509,12 @@ SPEC CHECKSUMS:
   React-jsiexecutor: 80c46bd381fd06e418e0d4f53672dc1d1945c4c3
   React-jsinspector: cc614ec18a9ca96fd275100c16d74d62ee11f0ae
   react-native-date-picker: 201b481c94dcb7678f4712477ad026dd7793305b
-  react-native-image-picker: 27c3726557dac6e224a17c564c16cdc7fb952f79
-  react-native-netinfo: 0f64266bbaa1989ebd51b43ee1723d582f6b3e47
-  react-native-pager-view: f21658a2e12eced35ef998250375e4e4dc9b8487
-  react-native-safe-area-context: 8465df05de8106c584b117f0e027e17174d6e02e
+  react-native-image-picker: 5fe0a96bef4935bbdfb02f59b910bf40d5526109
+  react-native-netinfo: 7cb7877ff31ebeb3d03ce0b4fbb616f121ddd859
+  react-native-pager-view: 5ab4d0b4b44d89f77310cb3eb8129745f274ce55
+  react-native-safe-area-context: 61c8c484a3a9e7d1fda19f7b1794b35bbfd2262a
   react-native-splash-screen: 200d11d188e2e78cea3ad319964f6142b6384865
-  react-native-text-input-mask: c49cb363db8c158f2e06e61f6732ab13b056eea6
+  react-native-text-input-mask: 36a546b378fadd2efe1b7484a859d34bc2c80395
   React-perflogger: 25373e382fed75ce768a443822f07098a15ab737
   React-RCTActionSheet: af7796ba49ffe4ca92e7277a5d992d37203f7da5
   React-RCTAnimation: 6a2e76ab50c6f25b428d81b76a5a45351c4d77aa
@@ -528,20 +528,20 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: a9904c6d0218fb9f8b19d6dd88607225927668f9
   ReactCommon: 149906e01aa51142707a10665185db879898e966
   ReactNativeExceptionHandler: b11ff67c78802b2f62eed0e10e75cb1ef7947c60
-  RNCAsyncStorage: 0f655864a81214d1c5a9bf0faf79d86dc25c383e
-  RNCClipboard: 5e299c6df8e0c98f3d7416b86ae563d3a9f768a3
+  RNCAsyncStorage: e8b8d6320a0dd90eb610fb0d0b1ef90596697c69
+  RNCClipboard: 41d8d918092ae8e676f18adada19104fa3e68495
   RNCPicker: c3a3d481bec16624ed84a3c2a64c92fdc5515960
   RNDateTimePicker: d16386fda012db9e1fac5d2f8281a91254dfee99
   RNDeviceInfo: 0400a6d0c94186d1120c3cbd97b23abc022187a9
   RNGestureHandler: a479ebd5ed4221a810967000735517df0d2db211
   RNImageCropPicker: 73891a709e6fd8a47d32104d942757971f220aee
-  RNPermissions: bf844d392fe0ecbfbd2e4ae2b88cc32f2f09b369
+  RNPermissions: f7ebe52db07c00901127966ca080b4ec6a6ceb0a
   RNScreens: eb0dfb2d6b21d2d7f980ad46b14eb306d2f1062e
   RNSVG: 551acb6562324b1d52a4e0758f7ca0ec234e278f
   RNVectorIcons: f67a1abce2ec73e62fe4606e8110e95a832bc859
   TOCropViewController: 3105367e808b7d3d886a74ff59bf4804e7d3ab38
   Yoga: 575c581c63e0d35c9a83f4b46d01d63abc1100ac
 
-PODFILE CHECKSUM: 726ba709848ed9b4d40c269488af13382c0712a3
+PODFILE CHECKSUM: b1cdabc9580f137832d322c4fab7191f24900ad8
 
 COCOAPODS: 1.11.2

@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'budget' do
+target 'wordslearning' do
   config = use_native_modules!
 
   use_react_native!(
@@ -23,7 +23,7 @@ target 'budget' do
   pod 'Permission-PhotoLibrary', :path => "#{permissions_path}/PhotoLibrary"
 
 
-  target 'budgetTests' do
+  target 'wordslearningTests' do
     inherit! :complete
     # Pods for testing
   end
